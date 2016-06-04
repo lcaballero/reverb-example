@@ -1,0 +1,38 @@
+#+OPTIONS: toc:nil
+
+* Introduction
+
+*reverb-example* serves working example of how to utilize the [[https://github.com/lcaballero/reverb][*reverb*]]
+helper lib.  [[https://github.com/lcaballero/reverb][*reverb*]] itself builds upon the [[http://echo.labstack.com][echo]].  It supplies asset
+and template include path resolution; utilities rendering pages from
+web handlers, root page structures, etc.
+
+[[https://github.com/lcaballero/reverb][*reverb*]] is intended to hold code reuseable between web apps and
+*reverb-example* is intended to show how [[https://github.com/lcaballero/reverb][*reverb*]] is intended to be
+reused, essentially documenting [[https://github.com/lcaballero/reverb][*reverb*]] fully by example.
+
+** Installation
+
+First, add =$GOPATH/bin= is on the environment =$PATH=.
+
+#+BEGIN_SRC shell
+go get github.com/lcaballero/reverb-example
+go install reverb-example
+#+END_SRC
+
+** Usage
+
+As example code documenting the usage of [[https://github.com/lcaballero/reverb][*reverb*]] in a working example
+web server.
+
+** License
+
+See license file.
+
+The use and distribution terms for this software are covered by the
+[[http://opensource.org/licenses/eclipse-1.0.txt][Eclipse Public License 1.0]], which can be found in the file 'license'
+at the root of this distribution. By using this software in any
+fashion, you are agreeing to be bound by the terms of this
+license. You must not remove this notice, or any other, from this
+software.
+
