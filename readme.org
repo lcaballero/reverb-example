@@ -2,14 +2,14 @@
 
 * Introduction
 
-*reverb-example* serves working example of how to utilize the [[https://github.com/lcaballero/reverb][*reverb*]]
-helper lib.  [[https://github.com/lcaballero/reverb][*reverb*]] itself builds upon the [[http://echo.labstack.com][echo]].  It supplies asset
+*reverb-example* serves working example of how to utilize the [[https://github.com/lcaballero/reverb][reverb]]
+helper lib.  [[https://github.com/lcaballero/reverb][reverb]] itself builds upon the [[http://echo.labstack.com][echo]].  It supplies asset
 and template include path resolution; utilities rendering pages from
 web handlers, root page structures, etc.
 
-[[https://github.com/lcaballero/reverb][*reverb*]] is intended to hold code reuseable between web apps and
-*reverb-example* is intended to show how [[https://github.com/lcaballero/reverb][*reverb*]] is intended to be
-reused, essentially documenting [[https://github.com/lcaballero/reverb][*reverb*]] fully by example.
+[[https://github.com/lcaballero/reverb][reverb]] is intended to hold code reuseable between web apps and
+*reverb-example* is intended to show how [[https://github.com/lcaballero/reverb][reverb]] is intended to be
+reused, essentially documenting [[https://github.com/lcaballero/reverb][reverb]] fully by example.
 
 ** Installation
 
@@ -22,7 +22,7 @@ go install reverb-example
 
 ** Usage
 
-As example code documenting the usage of [[https://github.com/lcaballero/reverb][*reverb*]] in a working example
+As example code documenting the usage of [[https://github.com/lcaballero/reverb][reverb]] in a working example
 web server.
 
 ** License
